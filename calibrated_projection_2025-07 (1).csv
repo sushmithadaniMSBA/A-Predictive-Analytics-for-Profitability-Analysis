@@ -1,0 +1,12 @@
+metric,value
+Backtest ratio — Upsell (realized/expected),0.83×
+Backtest ratio — Cross-sell (realized/expected),1.53×
+Model July — Upsell expected profit,"582,183.65"
+Model July — Cross-sell expected profit,"34,462.36"
+Model July — TOTAL expected profit,"616,646.02"
+Calibrated July — Upsell profit,"480,732.67"
+Calibrated July — Cross-sell profit,"52,812.48"
+Calibrated July — TOTAL profit,"533,545.15"
+July Baseline (movement) profit,"11,460,350.41"
+Model July uplift % vs baseline,5.38%
+Calibrated July uplift % vs baseline,4.66%
