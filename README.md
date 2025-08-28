@@ -21,6 +21,8 @@ streamlit run app.py
 Upload the monthly Master data Excel/CSV file to view recommendations and profitability analysis.
 
 Demo Video
+https://drive.google.com/file/d/1GNekBj4p0k8Vg8i4JL6FJOnG3o1QwGFI/view?usp=drive_link
+
 Watch the demo
  
 This video shows how to use the Streamlit app for product recommendation and profitability analysis.
